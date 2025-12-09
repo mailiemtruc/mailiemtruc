@@ -167,16 +167,9 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/mailiemtruc">
-  <img src="https://github-readme-stats.vercel.app/api?username=mailiemtruc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mailiemtruc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
-  </a>
-  
-  <br/><br/>
 
   <img src="https://raw.githubusercontent.com/mailiemtruc/mailiemtruc/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
-<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0040ff&height=100&section=footer"/>
