@@ -63,7 +63,7 @@
   <br/><br/>
   
   <p><strong>DevOps & Creative Tools</strong></p>
-  <img src="https://skillicons.dev/icons?i=docker,github,postman,figma,blender,ps,ai,xd&perline=8" />
+  <img src="https://skillicons.dev/icons?i=docker,github,postman,figma,blender,ps,ai&perline=8" />
   
 </div>
 
@@ -138,19 +138,6 @@
 </h2>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=mailiemtruc&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mailiemtruc&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-  
-  <br/>
-  
   <img src="https://raw.githubusercontent.com/mailiemtruc/mailiemtruc/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 </div>
 
