@@ -55,7 +55,7 @@
 <div align="center">
   
   <p><strong>Mobile & Core Languages</strong></p>
-  <img src="https://skillicons.dev/icons?i=flutter,kotlin,swift,java,python,c,cpp,cs,lua&perline=9" />
+  <img src="https://skillicons.dev/icons?i=flutter,java,python,c,cpp,cs,lua&perline=9" />
   <br/><br/>
   
   <p><strong>Web, Backend & Database</strong></p>
